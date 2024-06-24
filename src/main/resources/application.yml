@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: security-purushottam
+
+server:
+  port: 9090
